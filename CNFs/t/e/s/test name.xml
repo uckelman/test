@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cnf>
+  <nym>Test Name</nym>
+  <gen>M</gen>
+  <etym>Will this be pushed?</etym>
+  <def>Will this work?</def>
+  <usg>We want to know.</usg>
+  <note>This is a note.</note>
+</cnf>
