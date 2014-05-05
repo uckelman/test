@@ -1,2 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<vnf><name>Harduinus</name><nym>Hardwin</nym><gen>M</gen><case>abl</case><lang>Latin</lang><place>England</place><date>1086</date><bibl><key>Withycombe</key><loc>s.n. Hardwin</loc></bibl></vnf>
+<vnf>
+  <name>Harduinus</name>
+  <nym>Hardwin</nym>
+  <gen>M</gen>
+  <case>abl</case>
+  <lang>Latin</lang>
+  <place>England</place>
+  <date>1086</date>
+  <bibl>
+    <key>Withycombe</key>
+    <loc>s.n. Hardwin</loc>
+    </bibl>
+  </vnf>
+
