@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<vnf>
+  <name>Gasparro</name>
+  <nym>Jasper</nym>
+  <gen>M</gen>
+  <case>abl</case>
+  <lang>Latin</lang>
+  <place><settlement type="city">Rimini</settlement>, <country>Italy</country></place>
+  <date>1393</date>
+  <bibl>
+    <key>sajanello-2</key>
+    <loc></loc>
+  </bibl>
+  <note/>
+</vnf>
