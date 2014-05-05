@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<vnf>
+  <name>Bob</name>
+  <nym>Bob</nym>
+  <gen>M</gen>
+  <case></case>
+  <lang>xyz</lang>
+  <place>foo</place>
+  <date>bar</date>
+  <bibl>
+    <key>baz</key>
+    <loc></loc>
+  </bibl>
+  <note/>
+</vnf>
