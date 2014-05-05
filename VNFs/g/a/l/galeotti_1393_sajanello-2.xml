@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<vnf>
+  <name>Galeotti</name>
+  <nym>Galeotto</nym>
+  <gen>M</gen>
+  <case>gen</case>
+  <lang>Latin</lang>
+  <place>&amp;lt;settlement type=&amp;#34;city&amp;#34;&amp;gt;Rimini&amp;lt;/settlement&amp;gt;, &amp;lt;country&amp;gt;Italy&amp;lt;/country&amp;gt;</place>
+  <date>1393</date>
+  <bibl>
+    <key>sajanello-2</key>
+    <loc>p. 19</loc>
+  </bibl>
+  <note/>
+</vnf>
