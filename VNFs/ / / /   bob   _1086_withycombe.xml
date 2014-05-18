@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<vnf>
+  <name>   Bob   </name>
+  <nym>Bob</nym>
+  <gen>M</gen>
+  <case></case>
+  <lang>Latin</lang>
+  <place>England</place>
+  <date>1086</date>
+  <bibl>
+    <key>Withycombe</key>
+    <loc></loc>
+  </bibl>
+</vnf>

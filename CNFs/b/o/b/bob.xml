@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cnf>
+  <nym>Bob</nym>
+  <gen>M</gen>
+  <etym>foo</etym>
+  <usg>bar</usg>
+  <def>baz</def>
+  <note>!</note>
+</cnf>
